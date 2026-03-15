@@ -1,7 +1,7 @@
 # 🏥 Diabetes Prediction API
 
-**Live Demo:** [diabetes-prediction-api-production-1e6c.up.railway.app](diabetes-prediction-api-production-1e6c.up.railway.app)  
-**API Docs:** [diabetes-prediction-api-production-1e6c.up.railway.app/docs](diabetes-prediction-api-production-1e6c.up.railway.app/docs)
+**Live Demo:** [https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/](https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/)  
+**API Docs:** [https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/](https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/)
 
 ---
 

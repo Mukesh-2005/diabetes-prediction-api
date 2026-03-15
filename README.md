@@ -209,4 +209,4 @@ MIT License - feel free to use this project!
 
 **⭐ If you found this helpful, please star the repository!**
 
-**Ready to use? Visit the [live demo](https://your-live-url.railway.app/docs)!** 🚀
+**Ready to use? Visit the [live demo](diabetes-prediction-api-production-1e6c.up.railway.app)!** 🚀

@@ -185,14 +185,14 @@ Actual Yes        2,228       16,471
 
 ## 🔗 Important Links
 
-- **GitHub:** [https://github.com/YOUR_USERNAME/diabetes-prediction-api](https://github.com/YOUR_USERNAME/diabetes-prediction-api)
+- **GitHub:** [https://github.com/Mukesh-2005/diabetes-prediction-api](https://github.com/Mukesh-2005/diabetes-prediction-api)
 - **Kaggle Dataset:** [https://www.kaggle.com/competitions](https://www.kaggle.com/competitions)
 - **FastAPI Docs:** [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [Mukesh-2005](https://github.com/Mukesh-2005)
 - Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ## 📝 License

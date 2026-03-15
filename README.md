@@ -193,7 +193,6 @@ Actual Yes        2,228       16,471
 
 **Your Name**
 - GitHub: [Mukesh-2005](https://github.com/Mukesh-2005)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ## 📝 License
 

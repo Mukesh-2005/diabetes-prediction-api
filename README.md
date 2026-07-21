@@ -1,6 +1,6 @@
 # 🏥 Diabetes Prediction API
 
-**Live Demo:** [https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/](https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/)  
+**Live Demo:** [https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/](https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/) The Free trail, It expired.
 **API Docs:** [https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/](https://diabetes-prediction-api-production-1e6c.up.railway.app/docs#/)
 
 ---
